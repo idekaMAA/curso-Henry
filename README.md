@@ -1,2 +1,1 @@
-# curso-Henry
-repositorio de prueba mdl2 curso henry
+esto es una prueba sobre como hacer un repositorio y clonarlo desde github a mi computadora
